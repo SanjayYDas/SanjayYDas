@@ -34,6 +34,6 @@
 
 ## 👨‍💻 Techno Used
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,colab,jupyter,linux" alt="AI & ML" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,linux" alt="AI & ML" />
   </p>
 </div>
