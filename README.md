@@ -5,7 +5,7 @@
 
 💡 &nbsp;I am an AI Engineer skilled in Generative AI, Machine Learning, Computer Vision, NLP, and Data Annotation.<br>
 💻 &nbsp;Passionate about enhancing efficiency and user experience by developing practical AI solutions.<br>
-📊 &nbsp;My mission is to revolutionize human interaction with intelligent systems, turning complex data into meaningful insights.<br>
+📊 &nbsp;My mission is to revolutionize human interaction with intelligent systems.<br>
 🎓 &nbsp;Bachelor of AI & ML from Bharathiyar University.<br>
 📍 &nbsp;Based in Kerala, India.<br>
 
