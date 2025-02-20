@@ -32,4 +32,8 @@
 <a href="mailto:sanjaydas8899@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/sanjay-y-das"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
 
-
+## 👨‍💻 Techno Used
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit_learn,keras,python,opencv,colab,jupyter,linux" alt="AI & ML" />
+  </p>
+</div>
